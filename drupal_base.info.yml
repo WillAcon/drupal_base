@@ -58,6 +58,9 @@ dependencies:
   - field_group
   - editor_advanced_link
   - imce
+  - linkit
+  - honeypot
+  
   
   # Contrib
   - admin_toolbar
