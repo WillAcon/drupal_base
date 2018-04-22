@@ -40,7 +40,7 @@ dependencies:
   - tour
   - automated_cron
 
-  # Commerce
+  # Modules
   - ckeditor_youtube
   - context
   - context_ui
