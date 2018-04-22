@@ -60,7 +60,9 @@ dependencies:
   - imce
   - linkit
   - honeypot
-  
+  - twig_tweak
+  - simple_sitemap
+
   
   # Contrib
   - admin_toolbar
