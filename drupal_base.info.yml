@@ -41,22 +41,23 @@ dependencies:
   - automated_cron
 
   # Commerce
-  - address
-  - entity
-  - profile
-  - inline_entity_form
-  - state_machine
-  - commerce
-  - commerce_log
-  - commerce_checkout
-  - commerce_cart
-  - commerce_order
-  - commerce_product
-  - commerce_price
-  - commerce_store
-  - commerce_payment
-  - commerce_promotion
-  - commerce_tax
+  - ckeditor_youtube
+  - context
+  - context_ui
+  - devel
+  - kint
+  - backup_db
+  - ctools
+  - token
+  - pathauto
+  - redirect
+  - paragraphs
+  - ds
+  - ds_extras
+  - module_filter
+  - field_group
+  - editor_advanced_link
+  - imce
   
   # Contrib
   - admin_toolbar
