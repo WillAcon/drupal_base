@@ -41,6 +41,7 @@ dependencies:
   - automated_cron
 
   # Modules
+  - entity
   - ckeditor_youtube
   - context
   - context_ui
@@ -59,13 +60,13 @@ dependencies:
   - editor_advanced_link
   - imce
   - linkit
-  - honeypot
   - twig_tweak
-  - simple_sitemap
+  - twig
 
   
   # Contrib
   - admin_toolbar
+  - admin_toolbar_tools
   - swiftmailer
 themes:
   - bartik
