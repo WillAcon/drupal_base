@@ -41,7 +41,6 @@ dependencies:
   - automated_cron
 
   # Modules
-  - entity
   - ckeditor_youtube
   - context
   - context_ui

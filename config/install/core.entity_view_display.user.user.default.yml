@@ -3,6 +3,7 @@ status: true
 dependencies:
   config:
     - field.field.user.user.user_picture
+    - image.style.thumbnail
   module:
     - image
     - user
@@ -13,6 +14,7 @@ mode: default
 content:
   member_for:
     weight: 5
+    region: content
   user_picture:
     type: image
     weight: 0
@@ -21,4 +23,6 @@ content:
       image_link: content
     third_party_settings: {  }
     label: hidden
-hidden: {  }
+    region: content
+hidden:
+  langcode: true
