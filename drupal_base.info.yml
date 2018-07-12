@@ -51,7 +51,6 @@ dependencies:
   - token
   - pathauto
   - redirect
-  - paragraphs
   - ds
   - ds_extras
   - module_filter
